@@ -391,7 +391,7 @@ footer .logo img {
 .promo-text p {
     padding: 35px 0 0;
 }
-.promo .wrap img {
+.promo .wrap iframe {
     position: absolute;
     bottom: 0;
     right: 18px;
