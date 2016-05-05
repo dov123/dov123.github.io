@@ -620,7 +620,7 @@ footer .logo img {
     .promo .wrap iframe {
         position: relative;
         right: auto;
-        bottom: auto;
+        bottom: 75px;
         display: block;
         margin: 0 auto;
     }
