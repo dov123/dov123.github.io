@@ -396,8 +396,7 @@ footer .logo img {
 }
 .promo .wrap iframe {
     position: absolute;
-    bottom:200px;
-    right: 1008px;
+    left:1500px;
 }
 .promo-title {
     font-size: 55px;
@@ -620,6 +619,7 @@ footer .logo img {
     .promo .wrap iframe {
         position: relative;
         right: auto;
+        left:auto;
         bottom: 25px;
         display: block;
         margin: 0 auto;
