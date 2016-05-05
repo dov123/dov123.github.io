@@ -614,7 +614,7 @@ footer .logo img {
     .promo .wrap {
         min-height: 0;
     }
-    .promo .wrap img {
+    .promo .wrap iframe {
         position: relative;
         right: auto;
         bottom: auto;
