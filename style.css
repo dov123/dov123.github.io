@@ -393,7 +393,7 @@ footer .logo img {
 }
 .promo .wrap iframe {
     position: absolute;
-    bottom: 0;
+    top:219px;
     right: 18px;
 }
 .promo-title {
