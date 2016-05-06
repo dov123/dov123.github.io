@@ -381,11 +381,11 @@ footer .logo img {
     min-height: 634px;
 }
 .promo-text {
-    width: 700px;
+    width: 650px;
     height: 634px;
     display: table-cell;
     vertical-align: middle;
-    font-size: 18px;
+    font-size: 16px;
     line-height: 30px;
 }
 .promo-text p {
