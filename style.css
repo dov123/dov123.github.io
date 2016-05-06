@@ -398,8 +398,7 @@ footer .logo img {
     position: absolute;
     top:200px;
     left:700px;
-    width:320;
-    height:180px;
+    
     
 }
 .promo-title {
@@ -628,8 +627,8 @@ footer .logo img {
         bottom: 25px;
         display: block;
         margin: 0 auto;
-         width:320;
-        height:180px;
+         width:auto;
+        height:auto;
     }
     .promo-text {
         text-align: center;
