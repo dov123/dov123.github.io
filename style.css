@@ -649,7 +649,9 @@ footer .logo img {
         background-color: #f6f6f6;
     }
     footer .logo {
-        display: none;
+        display: block;
+        margin-left: auto;
+        margin-right: auto
     }
     .copy,
     .istore,
