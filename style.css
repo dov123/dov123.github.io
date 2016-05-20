@@ -301,11 +301,13 @@ footer {
     padding: 90px 0;
 }
 footer .logo {
-    float: left;
-    margin: 0 95px 0 0;
+    /*float: left;
+    margin: 0 95px 0 0;*/
 }
 footer .logo img {
     display: block;
+    margin-left: auto;
+    margin-right: auto
 }
 .istore {
     float: left;
