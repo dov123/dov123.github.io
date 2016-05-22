@@ -167,3 +167,9 @@ article:after,
 header {
     padding: 69px 0;
 }
+img{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+}
