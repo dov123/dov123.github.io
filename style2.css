@@ -174,8 +174,8 @@ img{
     height:auto;
 }
 .four{
-    width: 100px;
-	height: 100px;
+    width: auto;
+	height: auto;
 	
 	position: absolute;
 	top:0;
