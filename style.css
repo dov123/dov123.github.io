@@ -649,7 +649,7 @@ footer .logo img {
         background-color: #f6f6f6;
     }
     footer .logo {
-        top:auto;
+        top:50px;
         display: block;
         margin-left: auto;
         margin-right: auto
