@@ -185,7 +185,8 @@ img{
 	margin: auto;
   
   /*gradient*/
-  font-size: 72px;
+  font-family: Arial;
+  font-size: 100px;
   background: -webkit-linear-gradient(#eee, #333);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
