@@ -174,14 +174,26 @@ img{
     height:auto;
 }
 .four{
-  position: fixed;
+    width: 100px;
+	height: 100px;
+	background-color: red;
+
+	position: absolute;
+	top:0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	
+	margin: auto;
+  /*position: fixed;
   top: 50%;
   display:block;
   margin-left: auto;
   margin-right: auto;
-  /*left: 50%;*/
-  margin-top: -50px;
+  left: 50%;
+  margin-top: -50px;*/
   /*margin-left: -100px;*/
+  
   /*gradient*/
   font-size: 72px;
   background: -webkit-linear-gradient(#eee, #333);
