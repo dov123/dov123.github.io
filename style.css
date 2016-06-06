@@ -256,14 +256,14 @@ header .logo a {
     width: 48px;
     height: 48px;
     text-indent: -9999px;
-    background-color: #3b5998;
+    /*background-color: #3b5998;
     -moz-border-radius: 50%;
     -webkit-border-radius: 50%;
     border-radius: 50%;
     -moz-transition: background-color 0.2s linear;
     -o-transition: background-color 0.2s linear;
     -webkit-transition: background-color 0.2s linear;
-    transition: background-color 0.2s linear;
+    transition: background-color 0.2s linear;*/
 }
 .social li a.social-facebook {
     background-position: 0 0;
@@ -299,7 +299,7 @@ header .logo a {
 /* footer -------------------------- */
 footer {
     padding: 90px 0;
-    background-color: #262626;
+    
 }
 footer .logo {
     /*float: left;
@@ -647,7 +647,6 @@ footer .logo img {
     }
     footer {
         padding-top: 0;
-        background-color: #262626;
         
     }
     footer .logo {
