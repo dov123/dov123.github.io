@@ -299,6 +299,7 @@ header .logo a {
 /* footer -------------------------- */
 footer {
     padding: 90px 0;
+    background-color: #262626;
 }
 footer .logo {
     /*float: left;
@@ -557,7 +558,7 @@ footer .logo img {
     display: block;
 }
 .subscribe {
-    background: #26a6d1;
+    background: #FF0070;
     text-align: center;
     color: #ffffff;
     text-align: center;
@@ -646,7 +647,7 @@ footer .logo img {
     }
     footer {
         padding-top: 0;
-        background-color: #f6f6f6;
+        background-color: #262626;
         
     }
     footer .logo {
