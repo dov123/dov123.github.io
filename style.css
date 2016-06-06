@@ -256,14 +256,14 @@ header .logo a {
     width: 48px;
     height: 48px;
     text-indent: -9999px;
-    /*background-color: #3b5998;
+    background-color: #3b5998;
     -moz-border-radius: 50%;
     -webkit-border-radius: 50%;
     border-radius: 50%;
     -moz-transition: background-color 0.2s linear;
     -o-transition: background-color 0.2s linear;
     -webkit-transition: background-color 0.2s linear;
-    transition: background-color 0.2s linear;*/
+    transition: background-color 0.2s linear;
 }
 .social li a.social-facebook {
     background-position: 0 0;
@@ -374,9 +374,10 @@ footer .logo img {
     margin: 0 60px 16px;
 }
 .promo {
-    background: #FF512F; /* fallback for old browsers */
-    background: -webkit-linear-gradient(#DD2476 ,#F44248); /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(#DD2476 ,#F4428); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background-color:#FF0070;
+    /*background: #FF512F; /* fallback for old browsers */
+    /*background: -webkit-linear-gradient(#DD2476 ,#F44248); /* Chrome 10-25, Safari 5.1-6 */
+    /*background: linear-gradient(#DD2476 ,#F4428); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     color: #ffffff;
 }
 .promo .wrap {
