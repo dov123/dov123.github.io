@@ -427,6 +427,10 @@ footer .logo img {
     -webkit-transition: all 0.15s linear;
     transition: all 0.15s linear;
 }
+#promobutton2{
+    background: #26a6d1;
+    
+}
 .promo-button:hover {
     background-color: #e2f9f5;
     color: #26a5d1;
