@@ -235,7 +235,9 @@ img {
 
 /* header -------------------------- */
 header {
-    padding: 69px 0;
+    /*padding: 69px 0;*/
+    padding-top: 25px;
+    padding-bottom: 25px;
 }
 header .logo {
     float: left;
