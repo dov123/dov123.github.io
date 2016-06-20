@@ -375,7 +375,8 @@ footer .logo img {
     margin: 0 60px 16px;
 }
 .promo {
-    background-color:#FF0070;
+    background-color:#f30188;
+    /*background-color:#FF0070;
     /*background: #FF512F; /* fallback for old browsers */
     /*background: -webkit-linear-gradient(#DD2476 ,#F44248); /* Chrome 10-25, Safari 5.1-6 */
     /*background: linear-gradient(#DD2476 ,#F4428); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
